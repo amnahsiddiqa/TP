@@ -7,8 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 {% raw %}
-<button onclick="window.open('/books/book.pdf')">Download</button>
-
+<button onclick="window.open('/scmultiomics-7.pdf')">Download</button>
+{% raw %}
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
